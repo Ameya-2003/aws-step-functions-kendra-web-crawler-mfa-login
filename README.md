@@ -80,4 +80,4 @@ touch test_cli_tool.py
 python test_cli_tool.py
 
 ```
-I hope this will work, as per your suggestion, Thanks for your interest 🙏
+I hope this will work, Thanks for your interest 🙏
